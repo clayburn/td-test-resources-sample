@@ -24,5 +24,5 @@ The expectation is that all tests pass with TD disabled, while only case #1 fail
 
 # Results
 
-* Build scan without TD: https://ge.solutions-team.gradle.com/s/mwognxvezxssk
-* Build scan with TD: https://ge.solutions-team.gradle.com/s/nvqzq7outn56u
+* Build scan without TD: https://ge.solutions-team.gradle.com/s/4cvb74i257hdi
+* Build scan with TD remote executors: https://ge.solutions-team.gradle.com/s/7qwwfcl5xn2ta
